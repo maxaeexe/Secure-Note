@@ -1,6 +1,6 @@
 # secure note
 
-bu proje kullanmak için setup.php dosyasını çalıştırmanız gerekmektedir.
+veritabanını oluşturmak için setup.php dosyasını çalıştırmanız gerekmektedir.
 
 ## kullanım
 
